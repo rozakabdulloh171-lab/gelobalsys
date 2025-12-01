@@ -1,4 +1,4 @@
-PR52+GPQ, Jl. Marina Emas, Keputih, Kec. Sukolilo, Surabaya, Jawa Timur 60111You, 16 hours ago apt-indexYou, 1 second ago Uncommitted changes
+PR52+GPQ, Jl. merisi jaya, Gg 4, Kec. wonocolo, Surabaya, Jawa Timur 60111You, 16 hours ago apt-indexYou, 1 second ago Uncommitted changes
 
 Lintang: -7,29116
 
