@@ -7,4 +7,5 @@ Panjang: 112.8018236
 It support service maintenance ardware software cctv laptop dl
 1. Clone the
 repository:
-'git clone
+'git clone1.vithub.com/gelobalsys/gelobal Nsysgit
+2.
